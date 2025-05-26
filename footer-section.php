@@ -1,9 +1,13 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-sm-12">
-                <p class="footer-logo">Wafa Fatima</p>
-                <p>
+            <div class=" mx-auto text-center">
+                <p class="footer-logo">Fatima Amir</p>
+                <a href="https://github.com/wafafatima66" class="single-icon-box " target="_blank"><i class="fab fa-github-square footer-icon"></i>
+                </a>
+                <a href="https://www.linkedin.com/in/wafa-fatima/" class="single-icon-box " target="_blank"><i class="fab fa-linkedin footer-icon"></i></a>
+                <a href="https://www.facebook.com/wafafatima11/" class="single-icon-box " target="_blank"><i class="fab fa-facebook-square footer-icon"></i></a>
+                <!-- <p>
                 
                     Dynamic and detail-oriented Web
                     Developer with a knack for
@@ -14,9 +18,9 @@
                     a fully-functional website for a education
                     institution. Armed with an extensive
                     understanding of end-to-end SDLC and
-                    DBMS</p>
+                    DBMS</p> -->
             </div>
-            <div class="col-lg-2 col-sm-12">
+            <!-- <div class="col-lg-2 col-sm-12">
                 <ul class="">
                     <li class="nav-item">
                         <a class="nav-link " href="#">Home </a>
@@ -32,10 +36,10 @@
                         <a class="nav-link " href="#portfoliosection">Portfolio</a>
                     </li>
                 </ul>
-            </div>
+            </div> -->
 
 
-            <div class="col-lg-3 col-sm-12">
+            <!-- <div class="col-lg-3 col-sm-12">
                     <form class="form-col" action="contact-config.php" method="POST">
                         <input type="text" placeholder="Name" name="name">
                         <input type="text" placeholder="E-mail" name="email">
@@ -46,16 +50,16 @@
                             </div>
                         </div>
                     </form>
-                </div>
+                </div> -->
 
-            <div class="col-lg-3 col-sm-12">
+            <!-- <div class="col-lg-3 col-sm-12">
 
                 <a href="https://github.com/wafafatima66" class="single-icon-box " target="_blank"><i class="fab fa-github-square footer-icon"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/wafa-fatima/" class="single-icon-box " target="_blank"><i class="fab fa-linkedin footer-icon"></i></a>
                 <a href="https://www.facebook.com/wafafatima11/" class="single-icon-box " target="_blank"><i class="fab fa-facebook-square footer-icon"></i></a>
 
-            </div>
+            </div> -->
         </div>
     </div>
 </footer>

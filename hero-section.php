@@ -1,12 +1,12 @@
  <!-- hero section -->
- <div class="hero">
+<div class="hero">
 
      <?php include 'navbar.php'; ?>
 
      <div class="hero-center">
 
          <div class="hero-text">
-             <h1>Wafa Fatima</h1>
+             <h1>Fatima Amir</h1>
          </div>
 
 
@@ -25,7 +25,6 @@
                 </div>
                 <div class="decor-box-2"> 
                 </div> -->
-
 
      </div>
 

@@ -38,7 +38,7 @@
 
 <section class="Portfolio-section mb-5 pb-5" id="portfoliosection">
     <div class="container portfolio-container">
-        <h4 class="text-center ">PORTFLIO</h4>
+        <h4 class="text-center ">PROJECTS</h4>
 
         <!-- <div class="tab mt-5 d-flex justify-content-center">
             <button class="tablinks active" onclick="openProject(event,'All')">All</button>
@@ -47,8 +47,6 @@
             <button class="tablinks" onclick="openProject(event,'Javascript')">Javascript</button>
             <button class="tablinks" onclick="openProject(event,'React')">React</button>
         </div> -->
-
-        
 
         <div id="All" class=" project tabcontent" style="display: block;">
         <div class="row">

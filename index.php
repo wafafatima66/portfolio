@@ -1,5 +1,3 @@
-
-
 <?php include 'main.php'; ?>
 
 <?php include 'message.php'; ?>
@@ -39,8 +37,12 @@
 
 <!-- professional portfolio section -->
 
-<?php include 'portfolio-section.php'; ?>
+<?php 
+// include 'portfolio-section.php';
+ ?>
 
+
+<?php include 'new-portfolio-section.php'; ?>
 
 <!-- testimonail area -->
 

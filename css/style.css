@@ -254,7 +254,7 @@ color: #1e212d;
 margin-top: 15px;
 }
 .service-para{
-  height:180px
+  height:210px
 }
 .service-tools{
   color: #b68973;
@@ -413,7 +413,16 @@ margin-top: 15px;
 .portfolio-row{
   padding: 0 10rem;
 }
+.project-box{
+  width:  100%;
+  box-shadow: 0 17px 10px -10px rgba(0, 0, 0, 0.4);
+  padding: 12px;
+}
 
+.btn-project{
+  font-size: 12px;
+  padding: 8px 10px;
+}
 @media only screen and (max-width: 600px) {
   
   .portfolio-container{
@@ -478,7 +487,7 @@ margin-top: 15px;
 
 /* for indiviual project page */
 .project-img{
-  /* height: 500px; */
+  height: 370px;
 }
 @media only screen and (max-width: 600px) {
   .project-img{
@@ -518,6 +527,11 @@ margin-top: 15px;
   font-weight: bold;
   border-radius: 12px;
 }
+.touch-in-icon{
+  color:#fff;
+  font-size: 50px;
+  margin-right: 20px;
+}
 footer{
     background-color:#1e212d;
     padding: 12px;
@@ -530,7 +544,7 @@ footer p {
 
 p {
   color: #888;
-  font-size: 12px;
+  font-size: 15px;
   line-height: 20px;
 }
 .footer-logo {
