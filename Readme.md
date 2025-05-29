@@ -29,7 +29,7 @@
   <h2>🚀 How to Run the Project</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/wafafatima66/portfolio</code></pre>
+      <pre><code>https://github.com/wafafatima66/portfolio-js-php</code></pre>
     </li>
     <li>Place it in your local server directory (e.g., <code>htdocs</code> if using XAMPP).</li>
     <li>Start Apache server (and MySQL if your contact form stores data).</li>
